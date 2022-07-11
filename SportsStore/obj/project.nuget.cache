@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "YU7Yvq0vKiE3nURt9F7yUKS9PWhP76c9wU/5WyfJ7zPTUm4aKFaJ5wZ0fr/OZ/o7S+7/Uy7Q05VB0lvlwl1ZkA==",
+  "dgSpecHash": "3ktEInZo4VoIDr9ynVDBbevfBddwSWi/adSYrURguY04QIswDaIujozb50ARhaa9DRqkK5MsBjasfX9Q7Ad4Hg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Popescu Sergiu\\Desktop\\STUFF\\Projects\\dotNET_CORE\\SportsStore\\SportsStore\\SportsStore.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Popescu Sergiu\\.nuget\\packages\\bootstrap\\3.0.1\\bootstrap.3.0.1.nupkg.sha512",
+    "C:\\Users\\Popescu Sergiu\\.nuget\\packages\\jquery\\1.9.0\\jquery.1.9.0.nupkg.sha512",
     "C:\\Users\\Popescu Sergiu\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Popescu Sergiu\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
     "C:\\Users\\Popescu Sergiu\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
@@ -102,7 +104,8 @@
     "C:\\Users\\Popescu Sergiu\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\Popescu Sergiu\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Popescu Sergiu\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\Popescu Sergiu\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\Popescu Sergiu\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\Popescu Sergiu\\.nuget\\packages\\twitter.bootstrap\\3.0.1.1\\twitter.bootstrap.3.0.1.1.nupkg.sha512"
   ],
   "logs": []
 }
