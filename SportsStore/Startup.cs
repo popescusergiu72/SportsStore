@@ -23,6 +23,7 @@ namespace SportsStore
         private IConfiguration Configuration { get; set; }
 
        public void ConfigureServices(IServiceCollection services) {
+
             services.AddControllersWithViews();
 
             services.AddDbContext<StoreDbContext>(opts => {
@@ -30,6 +31,8 @@ namespace SportsStore
             });
 
             services.AddScoped<IStoreRepository, EFStoreRepository>();
+            services.AddRazorPages();
+           
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env) {
@@ -49,6 +52,8 @@ namespace SportsStore
                 endpoints.MapControllerRoute("pagination", "Products/Page{productPage}", new {Controller = "Home", action = "Index", productPage = 1});
 
                 endpoints.MapDefaultControllerRoute();
+
+                endpoints.MapRazorPages();
             });
 
             SeedData.EnsurePopulated(app);
