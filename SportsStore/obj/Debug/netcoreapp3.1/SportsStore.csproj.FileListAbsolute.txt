@@ -150,3 +150,6 @@ C:\Users\Popescu Sergiu\Desktop\STUFF\Projects\dotNET_CORE\SportsStore\SportsSto
 C:\Users\Popescu Sergiu\Desktop\STUFF\Projects\dotNET_CORE\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ProductSummary.cshtml.g.cs
 C:\Users\Popescu Sergiu\Desktop\STUFF\Projects\dotNET_CORE\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
 C:\Users\Popescu Sergiu\Desktop\STUFF\Projects\dotNET_CORE\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\Cart.cshtml.g.cs
+C:\Users\Popescu Sergiu\Desktop\STUFF\Projects\dotNET_CORE\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\_CartLayout.cshtml.g.cs
+C:\Users\Popescu Sergiu\Desktop\STUFF\Projects\dotNET_CORE\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Popescu Sergiu\Desktop\STUFF\Projects\dotNET_CORE\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
